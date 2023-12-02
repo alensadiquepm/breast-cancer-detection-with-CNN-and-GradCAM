@@ -1,7 +1,7 @@
 # breast-cancer-detection-with-CNN-and-GradCAM
 Detection of breast cancer using CNN and enhanced visualisation using GradCAM
 ## Overview
-This repository contains an implementation of a breast cancer detection model using Convolutional Neural Networks (CNN) with enhanced visualization through Gradient-weighted Class Activation Mapping (GradCAM). The model is designed to analyze mammogram images and provide accurate predictions regarding the presence of breast cancer.
+Our project aims to employ Convolutional Neural Networks (CNN) for accurate breast cancer detection by classifying it as benign or malignant through medical imaging. The integration of GradCAM (Gradient-weighted Class Activation Mapping) enhances the interpretability of the CNN's predictions by generating heatmaps that highlight critical regions in mammogram images. This approach not only improves diagnostic accuracy but also provides valuable insights for clinicians to understand and trust the model's decisions. The project emphasizes the synergy between advanced CNN techniques and GradCAM for a more effective and transparent breast cancer detection methodology.
 
 ## Features
 CNN Architecture: Utilizes a sophisticated CNN architecture tailored for medical image analysis to effectively capture intricate patterns indicative of breast cancer.
